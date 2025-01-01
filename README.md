@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help on **full stack projects.**
 
-- 😍 Hobbies: [Coding, Cooking, Listening to music](#)
+- 😍 Hobbies: Coding, Cooking, Listening to music
 
 - 💬 Ask me about **programming languages, anything related to Web development.**
 
