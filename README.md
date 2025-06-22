@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=aditya-1908&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-1908" /> 
 </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working on **MERN Stack Development**
 
 - 🌱 I’m currently learning **DevOps.**
 
