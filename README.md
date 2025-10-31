@@ -1,3 +1,4 @@
+
 <h1 align="center">Hola! It's Aditya Basantia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="38px"></h1> 
 <h3 align="center">A passionate developer from India with ❤️ for open source contributions.</h3>
 
@@ -86,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img height="200px" width="100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1908&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
+  <img height="200px" width="100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-1908&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
 </p>
 <p><img align="right" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=aditya-1908&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="aditya-1908" /></p>
 
