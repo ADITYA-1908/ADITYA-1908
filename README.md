@@ -5,11 +5,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2E9EF7&height=200&section=header&text=Aditya%20Basantia&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20MEAN%20%7C%20System%20Design&descAlignY=60&descSize=18" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2E9EF7&height=200&section=header&text=Aditya%20Basantia&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Associate%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20MEAN&descAlignY=60&descSize=18" alt="header" width="100%" />
 
   <!-- Typing Intro -->
- <a href="https://github.com/ADITYA-1908">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Aditya+Basantia;Associate+Software+Engineer+at+BDB.ai;Full+Stack+Developer;Angular+%7C+React+%7C+Next.js;Node.js+%7C+Express.js+%7C+GraphQL;Redis+%7C+Socket.io+%7C+MongoDB;Building+scalable+enterprise+applications" alt="Typing SVG" />
+<a href="https://github.com/ADITYA-1908">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Angular+%7C+React+%7C+Next.js;Node.js+%7C+Express.js+%7C+GraphQL;Redis+%7C+Socket.io+%7C+MongoDB;Building+scalable+enterprise+applications" alt="Typing SVG" />
 </a>
 
   <p>
@@ -19,7 +19,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=ADITYA-1908&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
     <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-2E9EF7?style=flat" alt="location" />
-    <img src="https://img.shields.io/badge/Focus-System%20Design%20%26%20Web3-2E9EF7?style=flat" alt="focus" />
+    <img src="https://img.shields.io/badge/Focus-System%20Design-2E9EF7?style=flat" alt="focus" />
   </p>
 
   <!-- Socials -->
@@ -64,7 +64,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
@@ -74,10 +73,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -98,6 +97,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
