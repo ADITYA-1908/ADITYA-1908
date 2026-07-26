@@ -46,8 +46,8 @@
 
 - Associate Software Engineer at **BizViz Technologies (BDB.ai)**, building enterprise-grade data platform solutions with **Angular, TypeScript, and RxJS**.
 - Former Full Stack Developer Intern with hands-on experience building scalable **MERN Stack** applications, REST APIs, and GraphQL services.
-- Passionate about **System Design, Full-Stack Development, Cloud Technologies, and Web3**, with a focus on building performant and production-ready software.
-- Experienced in **React, Next.js, Angular, Node.js, Express.js, MongoDB, Redis, Socket.io, and TypeScript**.
+- Passionate about **System Design, Full-Stack Development and Web3**, with a focus on building performant and production-ready software.
+- Experienced in **React,Angular, Node.js, Express.js, MongoDB, Redis, Socket.io, and TypeScript**.
 - Built projects featuring **real-time communication, payment gateways, authentication, file management, and live tracking systems**.
 - Presented a research paper on **Blockchain & Zero-Knowledge Proofs in Healthcare** at **ICICS 2025**.
 - HackerRank Certified in **Java, JavaScript, and Frontend Development (React)**.
