@@ -130,14 +130,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ADITYA-1908&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Build Something Impactful
